@@ -20,7 +20,7 @@
  * Network:     true
  * Plugin URI:  https://github.com/humanmade/network-media-library
  * GitHub Plugin URI: australian-paving/network-media-library
- * Version:     1.5.0
+ * Version:     1.5.1
  * Author:      John Blackbourn, Dominik Schilling, Frank Bültge
  * Author URI:  https://github.com/humanmade/network-media-library/graphs/contributors
  * License:     MIT
